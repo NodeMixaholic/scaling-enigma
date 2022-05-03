@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?> <rss version="2.0"> <channel> <title>NodeMixaholic Oeaps</title> 
+<link>https://nodemixaholic.com</link> <description>Birds go tweet, elephants go toot, I go oeap. (What I think av_mouse_howl from Toontown Online Sounds Like)</description> <language>en-us</language>     <item>
+        <title>Hello, World!</title>
+        <author>nodemixaholic@nodemixaholic.com</author>
+        <description>Hello world!
+
+This is my first oeap, to describe what this RSS feed is about.
+
+What is an oeap? An oeap, simply, is a descriptive term for the Toontown sound for the mouse "howling".
+
+
+But... what is an oeap in this context? Simply put, it's my thoughts in their purest form. Like birds go tweet, and mastodons go toot, I oeap.
+
+
+What is this RSS feed? Simply put it will be filled with Oeaps, because I wish to be more independent on the net and not rely on Twitter or Mastodon.
+
+Hope yall enjoy your day.
+
+Peace!</description>
+        <pubDate>Mon, 21 Feb 2022 11:34:47 -0600</pubDate>
+    </item>    <item>
+        <title>Quick update regarding computing</title>
+        <author>nodemixaholic@nodemixaholic.com</author>
+        <description>Hello world!
+
+As you may know, I use LINUX. My journey has been great so far. And as such
+I think it's time to take it to the next step. That's right, I'm going
+to be using mostly FOSS. This means NO Steam, Discord, or other not needed
+distractions that are big tech. That being said, I will give a *few*
+exceptions, such as using Discord exclusively for moderation of my servers.
+That being said, I will use Matrix for the actual chatting, as well as
+Windows virtual machines for any Windows-based development I need to do.
+
+In addition, I will support small up-coming tech companies that support
+Linux, such as Polytoria and others. I will also still be in the FOSS
+community. However, don't expect me to be active on things like Discord and
+Steam. Also I might not be that active on things like ROBLOX due to it's bloat
+and proprietary naturre.
+
+As always, you can email me at the email address specified.
+(nodemixaholic@nodemixaholic.com)
+
+Or if you are good friends with me, you can contact me on my Discord server
+and I will reply via Matrix. :-)
+
+Have fun out there yall, and I hope we get in touch soon.
+
+--NM</description>
+        <pubDate>Thu, 24 Feb 2022 10:09:15 -0600</pubDate>
+    </item>    <item>
+        <title>Windows sucks.</title>
+        <author>nodemixaholic@nodemixaholic.com</author>
+        <description>Windows sucks because:
+1. it's proprietary
+2. it spies on it's users
+3. very little customization compared to GNU/Linux
+4. insecure af</description>
+        <pubDate>Wed, 02 Mar 2022 21:14:02 -0600</pubDate>
+    </item>    <item>
+        <title>RSS - A better social platform</title>
+        <author>nodemixaholic@nodemixaholic.com</author>
+        <description>Here are my opinions on why RSS is just the better social platform
+
+1. only follow people who you wish
+
+* This explains itself
+
+
+2. keep informed, choose your bloat
+
+* As in: You can keep informed about local/global stuff going on
+
+* But with as much software bloat as you choose.
+
+
+3. as much toxicity as you choose
+
+* As in: Toxicity you see all depends on what people you follow on RSS.
+
+* And for targeted toxicity, they would have to "follow your RSS feed" in some way</description>
+        <pubDate>Sat, 05 Mar 2022 22:18:35 -0600</pubDate>
+    </item></channel>                    
+</rss>
